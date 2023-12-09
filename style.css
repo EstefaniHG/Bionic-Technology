@@ -1,0 +1,70 @@
+*{
+    font-family: 'PT Sans', sans-serif;
+    background-color: rgb(249, 234, 253);
+    /*background-image: url("https://images.pexels.com/photos/1076885/pexels-photo-1076885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+    */
+}
+h1{
+    color: purple;
+    text-align: center;
+}
+
+h2{
+    color:rgb(17, 43, 160);
+}
+
+h3{
+    color:rgb(37, 117, 122);
+}
+
+h4{
+    color:rgb(54, 0, 126);
+}
+
+p{
+    color:#091d44; 
+    text-align: justify;
+}
+.parrafo1{
+    color: rgb(48, 3, 48);
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+}
+ 
+img{
+    border-radius: 22px;
+    width:400px;
+}
+
+nav
+{
+    text-align: right;
+}
+
+nav ul
+{
+    list-style: none;
+}
+
+nav ul li
+{
+    display: inline;
+}
+
+#inicio
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#imagen2
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
